@@ -1,0 +1,14 @@
+//VARIABLES
+
+$colorPrimario: #494184;
+$colorSecundario: #743333;
+
+
+//Fin de las *VARIABLES*
+
+.articulo{
+	color:$colorPrimario;
+	p{
+		color: $colorSecundario;
+	}
+}
